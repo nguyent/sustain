@@ -11,13 +11,13 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
+baseurl: /
+title: Thang Nguyen
 author: Chris Turner
-description: Personal blog and resume
+description: Personal Website
 avatar: profile.png
 email: yourname@email.com
-github: username
-twitter: chrisstturner
-linkedin: username
-google_analytics: UA-69391421-1
+github: nguyent
+twitter:
+linkedin:
+google_analytics:
