@@ -10,14 +10,14 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
+url: http://thangnguyen.us
 baseurl: /
-title: Thang Nguyen
-author: Chris Turner
+title: An adequate website
+author: Thang Nguyen
 description: Personal Website
 avatar: profile.png
-email: yourname@email.com
+email: thang@thangnguyen.us
 github: nguyent
 twitter:
-linkedin:
+linkedin: iamthang
 google_analytics:
