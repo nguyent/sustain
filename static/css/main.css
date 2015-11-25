@@ -2,12 +2,13 @@
 -------------------------------------------------- */
 html,
 body {
-  height: 100%;
+  /* height: 100%; */
   background-color: #fff;
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
   /* border-top: 3px solid #27A822; */
 }
+
 /* Wrapper for page content to push down footer */
 #wrap {
   padding-bottom: 50px;
@@ -168,13 +169,22 @@ body {
 div.footer{
   border-bottom: 5px solid #27A822;;
 }
-/* Set the fixed height of the footer here */
-/*.footer {
-  height: 50px;
-  padding-bottom: 15px;
 
-}*/
 
+/* Hacks */
 a:hover {
   cursor: pointer;
+}
+
+html, body {
+  background: url('/static/img/concrete_seamless.png');
+}
+
+.navbar {
+  background: url('/static/img/concrete_seamless.png');
+  border: none;
+}
+
+.thumbnail {
+  background-color: rgba(245,245,245,.5);
 }
